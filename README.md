@@ -10,6 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=sgracia13&style=flat-square&color=blue" alt=""/>
   </div>
 
+  <h1>
+  Hi!. I'm Sebastian (Seb). Watching baseball, collecting baseball cards, hiking and building cool things on the computer are some of the things I really enjoy doing. Glad you stopped by!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
