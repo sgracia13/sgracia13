@@ -8,6 +8,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=sgracia13&style=flat-square&color=blue" alt=""/>
 
+
   <h1>
   Hi! I'm Sebastian (Seb). Glad you stopped by!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -18,6 +19,12 @@
   <img src="https://media.giphy.com/media/gH1jGsCnQBiFHWMFzh/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+### Product and Cloud Writing
+
+- :hammer: [Seb in Product](https://sebastians-organization-7.gitbook.io/product/)
+
+- :cloud: [Seb in the Cloud](https://app.gitbook.com/o/UwxAPHm6ylRc8yap8Tvd/s/3Y9Toii4xQlxK8DWKdLv/)
 ---
 
 ### :woman_technologist: About Me :
