@@ -20,7 +20,7 @@
 </div>
 
 ---
-### Product and Cloud Writing
+### :pencil2: :notebook: Product and Cloud Writing
 
 - :hammer: [Seb in Product](https://sebastians-organization-7.gitbook.io/product/)
 
