@@ -34,9 +34,7 @@
 
 - :zap: In my free time, I watch baseball (religiously) and draw.
 
-- :mailbox:How to reach me: 
-  - [Email](sebgra13@gmail.com)
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-gracia-b6a032199/)
 
 ---
 
