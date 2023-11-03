@@ -18,6 +18,18 @@
   <img src="https://media.giphy.com/media/gH1jGsCnQBiFHWMFzh/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :woman_technologist: About Me :
+- :telescope: I have a background in Product Management and have worked as a software engineer. Whether it's writing stories in Jira or getting my hands dirty with Python, I enjoy building things with cool people.
+
+- :seedling: Exploring Technical Content Writing and Design.
+
+- :zap: In my free time, I watch baseball (religiously) and draw.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
