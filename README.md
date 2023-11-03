@@ -2,6 +2,8 @@
   <img src="https://giphy.com/stickers/eboy-computer-nerd-geek-2zeji2UedvZzvIZ45N" width="100"/>
 </div>
 
+
+<iframe src="https://giphy.com/embed/2zeji2UedvZzvIZ45N" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/eboy-computer-nerd-geek-2zeji2UedvZzvIZ45N">via GIPHY</a></p>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
