@@ -24,7 +24,7 @@
 
 - :hammer: [Seb in Product](https://sebastians-organization-7.gitbook.io/product/)
 
-- :cloud: [Seb in the Cloud](https://app.gitbook.com/o/UwxAPHm6ylRc8yap8Tvd/s/3Y9Toii4xQlxK8DWKdLv/)
+- :cloud: [Seb in the Cloud](https://sebastians-organization-7.gitbook.io/cloud/)
 ---
 
 ### :woman_technologist: About Me :
