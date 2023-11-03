@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/2zeji2UedvZzvIZ45N" width="100"/>
+  <img src="https://giphy.com/stickers/eboy-computer-nerd-geek-2zeji2UedvZzvIZ45N" width="100"/>
 </div>
 
 ---
