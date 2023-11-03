@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/UoLt6Tm8wlSnWGfSFs" width="100"/>
+  <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="100"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
