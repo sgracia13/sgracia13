@@ -22,11 +22,8 @@
 ---
 ### :pencil2: :notebook: Product, Design and Cloud Writing
 
-- :hammer: [Seb in Product](https://sebastians-organization-7.gitbook.io/product/)
+- :cloud: [Seb in Tech](https://sebastians-organization-7.gitbook.io/cloud/)
 
-- :cloud: [Seb in the Cloud](https://sebastians-organization-7.gitbook.io/cloud/)
-
-- :paintbrush: [Seb in Design](https://sebastians-organization-7.gitbook.io/seb-in-design/)
 ---
 
 ### :woman_technologist: About Me :
